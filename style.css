@@ -1,0 +1,25 @@
+.qq{
+border: 1px solid black;
+background-color: rgb(54, 238, 238);
+margin-top:20px;
+width:50%;
+height: 68%;
+}
+
+#ee
+{
+    width:100%;
+
+}
+
+.list-group
+{
+    text-align:left;
+}
+
+.navbar
+{
+    margin:20px;
+    width:80%;
+}
+
